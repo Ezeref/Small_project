@@ -1,0 +1,16 @@
+Import  argparse
+parser = argparse.ArgumentParser()
+parser.add_argument(°Æ°Ø)
+args = parser.parse_args()
+https://blog.csdn.net/lis_12/article/details/54618868
+
+
+from  PIL  import  Image
+Image.NEAREST                    
+im = Image.open(°Æ°Ø)                 
+im.resize
+im.getipxel((i,j))
+
+
+ª“∂»÷µ gray = int (0.2126*r + 0.7152*b + 0.0722*b )
+
